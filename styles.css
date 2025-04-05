@@ -1,10 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-       background-image: url('photo.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+       background-color: gredient yellow and red;
+   
     margin: 0;
     padding: 0;
     display: flex;
