@@ -1,12 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background: url('video.mp4');
+    background-image: url('video.mp4');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-blend-mode: color-burn;
-    background-color: rgba(0, 0, 0, 0.5);
     margin: 0;
     padding: 0;
     display: flex;
